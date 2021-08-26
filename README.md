@@ -8,7 +8,7 @@ My name is Noelia Donato and I'm a software developer. I'm from Argentina, livin
 - 🔭 I’m currently working at Santander Tecnologia.
 - 🌱 I’m currently working with [React](https://reactjs.org) and [NetCore](https://docs.microsoft.com).
 
-## Languages and Tools
+## Languages, frameworks and tools
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg"></code>
