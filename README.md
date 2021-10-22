@@ -29,8 +29,8 @@ My name is Noelia Donato and I'm a software developer. I'm from Argentina, livin
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nsdonato&repo=react_boleirplate&title_color=70a5fd&text_color=38bdae&icon_color=bf91f3&bg_color=1a1b27" />
 </a>
 
-<a href="https://github.com/nsdonato/curso_typescript">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nsdonato&repo=curso_typescript&title_color=70a5fd&text_color=38bdae&icon_color=bf91f3&bg_color=1a1b27" />
+<a href="https://github.com/nsdonato/curso_nextjs">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nsdonato&repo=curso_nextjs&title_color=70a5fd&text_color=38bdae&icon_color=bf91f3&bg_color=1a1b27" />
 </a>
 
 
