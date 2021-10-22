@@ -47,7 +47,6 @@ My name is Noelia Donato and I'm a software developer. I'm from Argentina, livin
 [1]: https://github.com/nsdonato
 [2]: https://www.linkedin.com/in/nsdonato/
 
-
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
 <!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
