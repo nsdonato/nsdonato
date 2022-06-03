@@ -43,6 +43,10 @@ My name is Noelia Donato and I'm a software developer. I'm from Argentina, livin
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nsdonato&repo=vamoacodear_todoone&title_color=70a5fd&text_color=38bdae&icon_color=bf91f3&bg_color=1a1b27" />
 </a>
 
+<a href="https://github.com/nsdonato/redux-essentials-example-app">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nsdonato&repo=redux-essentials-example-app&title_color=70a5fd&text_color=38bdae&icon_color=bf91f3&bg_color=1a1b27" />
+</a>
+
 
 [1.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
 
