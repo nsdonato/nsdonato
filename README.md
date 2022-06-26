@@ -39,8 +39,8 @@ My name is Noelia Donato and I'm a software developer. I'm from Argentina, livin
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nsdonato&repo=vamoacodear_portfolio&title_color=70a5fd&text_color=38bdae&icon_color=bf91f3&bg_color=1a1b27" />
 </a>
 
-<a href="https://github.com/nsdonato/vamoacodear_four">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nsdonato&repo=vamoacodear_four&title_color=70a5fd&text_color=38bdae&icon_color=bf91f3&bg_color=1a1b27" />
+<a href="https://github.com/nsdonato/vamoacodear_todofour">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nsdonato&repo=vamoacodear_todofour&title_color=70a5fd&text_color=38bdae&icon_color=bf91f3&bg_color=1a1b27" />
 </a>
 
 <a href="https://github.com/nsdonato/planets_facts">
