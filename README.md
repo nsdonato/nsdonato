@@ -35,10 +35,12 @@ My name is Noelia Donato and I'm a software developer. I'm from Argentina, livin
 
 ## &#x1f4c8; Working on
 
-<a href="https://github.com/nsdonato/vamosacodearplanetas">
+<a href="https://github.com/nsdonato/planestas_api">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nsdonato&repo=vamosacodearplanetas&title_color=70a5fd&text_color=38bdae&icon_color=bf91f3&bg_color=1a1b27" />
 </a>
-
+<a href="https://github.com/nsdonato/planetas_api">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nsdonato&repo=planetas_api&title_color=70a5fd&text_color=38bdae&icon_color=bf91f3&bg_color=1a1b27" />
+</a>
 
 [1.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
 
