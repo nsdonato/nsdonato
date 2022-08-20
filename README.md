@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Noelia Donato and I'm a software developer. I'm from Argentina, living in Buenos Aires. 
+My name is Noelia and I'm a Front-end developer from Argentina, living in Buenos Aires. 
 
 
 ## What i'm up to
