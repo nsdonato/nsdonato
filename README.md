@@ -5,7 +5,6 @@ My name is Noelia and I'm a Front-end developer from Argentina, living in Buenos
 
 ## What i'm up to
 
-- 🔭 I’m currently working at Capitole Consulting.
 - 🌱 I’m currently working with:
  
   [React](https://reactjs.org)
