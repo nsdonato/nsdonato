@@ -16,8 +16,8 @@ Mi nombre es Noelia y soy desarrolladora Frontend, vivo en Buenos Aires, Argenti
 <a href="https://twitter.com/vamoacodear">
 <img align="left" alt="Vamo a codear Twitter" width="22px" src="https://icongr.am/fontawesome/twitter.svg?size=128&color=6fadd6" />
 </a>
-<a href="https://youtube.gonzalopozzo.com">
-<img align="left" alt="Vamo a codear YouTube" width="22px" src="https://icongr.am/fontawesome/youtube.svg?size=128&color=#FF0000" />
+<a href="https://youtube.com/@vamoacodear?sub_confirmation=1">
+<img align="left" alt="Vamo a codear YouTube" width="22px" src="https://raw.githubusercontent.com/github/explore/d744245de144b89f3e3462949e08bfc91eda7fcf/topics/youtube/youtube.png" />
 </a>
 <a href="https://twitch.tv/vamoacodear">
 <img align="left" alt="Vamo a codear Twitch" width="22px" src="https://icongr.am/fontawesome/twitch.svg?size=128&color=a970ff" />
