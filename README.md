@@ -3,7 +3,7 @@
 Mi nombre es Noelia y soy desarrolladora Frontend, vivo en Buenos Aires, Argentina. 🇦🇷
 
 
-**About me**
+**Acerca de mí**
 
 - 👩🏻‍💻 FrontEnd Engineer en Inditex, actualmente trabajo con [React](https://reactjs.org)
 
