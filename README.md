@@ -35,11 +35,11 @@ My name is Noelia and I'm a Front-end developer from Argentina, living in Buenos
 
 ## &#x1f4c8; Working on
 
-<a href="https://github.com/nsdonato/vamosacodearplanetas">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nsdonato&repo=vamosacodearplanetas&title_color=70a5fd&text_color=38bdae&icon_color=bf91f3&bg_color=1a1b27" />
+<a href="https://github.com/nsdonato/front-invoices">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nsdonato&repo=front-invoices&title_color=70a5fd&text_color=38bdae&icon_color=bf91f3&bg_color=1a1b27" />
 </a>
-<a href="https://github.com/nsdonato/planetas_api">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nsdonato&repo=planetas_api&title_color=70a5fd&text_color=38bdae&icon_color=bf91f3&bg_color=1a1b27" />
+<a href="https://github.com/nsdonato/back-invoices">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nsdonato&repo=back-invoices&title_color=70a5fd&text_color=38bdae&icon_color=bf91f3&bg_color=1a1b27" />
 </a>
 
 [1.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
