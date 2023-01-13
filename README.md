@@ -11,24 +11,12 @@ Mi nombre es Noelia y soy desarrolladora Frontend, vivo en Buenos Aires, Argenti
 
 - 🤓 Aprendiendo [Typescript](https://www.typescriptlang.org/)
 
-- 🆕 Soy creadora de contenido en:
+- 🆕 Creo contenido en:
  
-<a href="https://twitter.com/vamoacodear">
-<img align="left" alt="Vamo a codear Twitter" width="22px" src="https://icongr.am/fontawesome/twitter.svg?size=128&color=6fadd6" />
-</a>
-<a href="https://youtube.com/@vamoacodear?sub_confirmation=1">
-<img align="left" alt="Vamo a codear YouTube" width="22px" src="https://raw.githubusercontent.com/github/explore/d744245de144b89f3e3462949e08bfc91eda7fcf/topics/youtube/youtube.png" />
-</a>
-<a href="https://twitch.tv/vamoacodear">
-<img align="left" alt="Vamo a codear Twitch" width="22px" src="https://icongr.am/fontawesome/twitch.svg?size=128&color=a970ff" />
-</a>
-<a href="https://tiktok.com/@vamoacodear">
-<img align="left" alt="Vamo a codear TikTok" width="22px" src="https://raw.githubusercontent.com/github/explore/14a518abd710177a13d8c22077cfcd98506dd756/topics/tiktok/tiktok.png" />
-</a>
-
-<br />
-
-<img align="right" alt="GIF" src="./assets/banner.jpg" width="240px" />
+  <a href="https://twitter.com/vamoacodear"><img align="left" alt="Vamo a codear Twitter" width="22px" src="https://icongr.am/fontawesome/twitter.svg?size=128&color=6fadd6" /></a>
+  <a href="https://youtube.com/@vamoacodear?sub_confirmation=1"><img align="left" alt="Vamo a codear YouTube" width="22px" src="https://raw.githubusercontent.com/github/explore/d744245de144b89f3e3462949e08bfc91eda7fcf/topics/youtube/youtube.png" /></a> <a href="https://twitch.tv/vamoacodear">
+<img align="left" alt="Vamo a codear Twitch" width="22px" src="https://icongr.am/fontawesome/twitch.svg?size=128&color=a970ff" /></a>
+<a href="https://tiktok.com/@vamoacodear"><img align="left" alt="Vamo a codear TikTok" width="22px" src="https://raw.githubusercontent.com/github/explore/14a518abd710177a13d8c22077cfcd98506dd756/topics/tiktok/tiktok.png" /></a>
 
 <br />
 
@@ -39,15 +27,38 @@ Mi nombre es Noelia y soy desarrolladora Frontend, vivo en Buenos Aires, Argenti
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png"></code>
 <code><img height="20" src="https://avatars.githubusercontent.com/u/49996085?s=200&v=4"></code>
+<code><img height="20" src="https://avatars.githubusercontent.com/u/65625612?s=200&v=4"></code>
 
-## &#x1f4c8; GitHub Stats
+## GitHub Stats
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=nsdonato&layout=compact&theme=dark
+<a href="https://github.com/nsdonato"><img align="center" src="https://github-readme-stats.vercel.app/api?username=nsdonato&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Noelia's github stats" /></a> | <a href="https://github.com/nsdonato/vamosacodearplanetas"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nsdonato&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
-<!--a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+#### Proyectos con la comunidad
+
+
+<a href="https://github.com/nsdonato/vamosacodearplanetas">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nsdonato&repo=vamosacodearplanetas&theme=buefy" />
 </a>
 
+<a href="https://github.com/nsdonato/planetas_api">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nsdonato&repo=vamosacodearplanetas&theme=buefy" />
+</a>
+
+<br />
+
+<a href="https://github.com/nsdonato/front-invoices">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nsdonato&repo=front-invoices&theme=buefy" />
+</a>
+
+<a href="https://github.com/nsdonato/back-invoices">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nsdonato&repo=back-invoices&theme=buefy" />
+</a>
+
+
+
+
+<!--
 <a href="https://github.com/nsdonato/nsdonato">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nsdonato&hide=java,html,tex&title_color=70a5fd&text_color=38bdae&icon_color=bf91f3&bg_color=1a1b27&langs_count=3" />
 </a>
@@ -55,14 +66,6 @@ https://github-readme-stats.vercel.app/api/top-langs/?username=nsdonato&layout=c
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=nsdonato&show_icons=true&line_height=27&count_private=true&title_color=70a5fd&text_color=38bdae&icon_color=bf91f3&bg_color=1a1b27&theme=tokyonight" alt="Noelia's GitHub Stats" />
 </a> -->
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=nsdonato&layout=compact
-
-<!-- [1.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
-
- icons without padding 
-
-[1.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
-[2.2]: https://raw.githubusercontent.com/nsdonato/nsdonato/master/linkedin-3-16.png (LinkedIn icon without padding) -->
 
 
 <!-- links to your social media accounts
