@@ -29,42 +29,30 @@ Mi nombre es Noelia y soy desarrolladora Frontend, vivo en Buenos Aires, Argenti
 <code><img height="20" src="https://avatars.githubusercontent.com/u/49996085?s=200&v=4"></code>
 <code><img height="20" src="https://avatars.githubusercontent.com/u/65625612?s=200&v=4"></code>
 
-## GitHub Stats
+## Estadísticas de GitHub
 
 <a href="https://github.com/nsdonato"><img align="center" src="https://github-readme-stats.vercel.app/api?username=nsdonato&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Noelia's github stats" /></a> | <a href="https://github.com/nsdonato/vamosacodearplanetas"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nsdonato&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-#### Proyectos con la comunidad
+## Proyectos con la comunidad 
 
+### 🌎 Proyecto Planetas 
 
 <a href="https://github.com/nsdonato/vamosacodearplanetas">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nsdonato&repo=vamosacodearplanetas&theme=buefy" />
 </a>
-
 <a href="https://github.com/nsdonato/planetas_api">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nsdonato&repo=vamosacodearplanetas&theme=buefy" />
-</a>
+</a> 
 
-<br />
+### 🆕 Proyecto Invoices (En proceso)
 
 <a href="https://github.com/nsdonato/front-invoices">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nsdonato&repo=front-invoices&theme=buefy" />
 </a>
-
 <a href="https://github.com/nsdonato/back-invoices">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nsdonato&repo=back-invoices&theme=buefy" />
 </a>
-
-
-
-
-<!--
-<a href="https://github.com/nsdonato/nsdonato">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nsdonato&hide=java,html,tex&title_color=70a5fd&text_color=38bdae&icon_color=bf91f3&bg_color=1a1b27&langs_count=3" />
-</a>
-<a href="https://github.com/nsdonato/nsdonato">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nsdonato&show_icons=true&line_height=27&count_private=true&title_color=70a5fd&text_color=38bdae&icon_color=bf91f3&bg_color=1a1b27&theme=tokyonight" alt="Noelia's GitHub Stats" />
-</a> -->
 
 
 
@@ -80,3 +68,4 @@ Mi nombre es Noelia y soy desarrolladora Frontend, vivo en Buenos Aires, Argenti
 <!-- HTML Emojis: https://www.fileformat.info/index.htm -->
 <!-- Shields: https://shields.io/ -->
 <!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
+
