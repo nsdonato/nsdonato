@@ -31,7 +31,12 @@ Mi nombre es Noelia y soy desarrolladora Frontend, vivo en Buenos Aires, Argenti
 
 ## Estadísticas de GitHub
 
-<a href="https://github.com/nsdonato"><img align="center" src="https://github-readme-stats.vercel.app/api?username=nsdonato&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Noelia's github stats" /></a> | <a href="https://github.com/nsdonato/vamosacodearplanetas"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nsdonato&layout=compact&theme=buefy&hide_border=true" /></a> |
+<a href="https://github.com/nsdonato">
+ <img align="center" src="https://github-readme-stats-nsdonato.vercel.app/api?username=nsdonato&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Noelia's github stats" />
+</a> | 
+<a href="https://github.com/nsdonato/vamosacodearplanetas">
+ <img align="center" src="https://github-readme-stats-nsdonato.vercel.app/api/top-langs/?username=nsdonato&layout=compact&theme=buefy&hide_border=true" />
+</a> |
 | ------------- | ------------- |
 
 ## Proyectos con la comunidad 
@@ -39,19 +44,19 @@ Mi nombre es Noelia y soy desarrolladora Frontend, vivo en Buenos Aires, Argenti
 ### 🌎 Proyecto Planetas 
 
 <a href="https://github.com/nsdonato/vamosacodearplanetas">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nsdonato&repo=vamosacodearplanetas&theme=buefy" />
+  <img align="center" src="https://github-readme-stats-nsdonato.vercel.app/api/pin/?username=nsdonato&repo=vamosacodearplanetas&theme=buefy" />
 </a>
 <a href="https://github.com/nsdonato/planetas_api">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nsdonato&repo=vamosacodearplanetas&theme=buefy" />
+  <img align="center" src="https://github-readme-stats-nsdonato.vercel.app/api/pin/?username=nsdonato&repo=vamosacodearplanetas&theme=buefy" />
 </a> 
 
 ### 🆕 Proyecto Invoices (En proceso)
 
 <a href="https://github.com/nsdonato/front-invoices">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nsdonato&repo=front-invoices&theme=buefy" />
+  <img align="center" src="https://github-readme-stats-nsdonato.vercel.app/api/pin/?username=nsdonato&repo=front-invoices&theme=buefy" />
 </a>
 <a href="https://github.com/nsdonato/back-invoices">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nsdonato&repo=back-invoices&theme=buefy" />
+  <img align="center" src="https://github-readme-stats-nsdonato.vercel.app/api/pin/?username=nsdonato&repo=back-invoices&theme=buefy" />
 </a>
 
 
