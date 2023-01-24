@@ -33,10 +33,10 @@ Mi nombre es Noelia y soy desarrolladora Frontend, vivo en Buenos Aires, Argenti
 
 <a href="https://github.com/nsdonato">
  <img align="center" src="https://github-readme-stats-nsdonato.vercel.app/api?username=nsdonato&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Noelia's github stats" />
-</a> | 
+</a>  
 <a href="https://github.com/nsdonato/vamosacodearplanetas">
  <img align="center" src="https://github-readme-stats-nsdonato.vercel.app/api/top-langs/?username=nsdonato&layout=compact&theme=buefy&hide_border=true" />
-</a> |
+</a> 
 
 
 ## Proyectos con la comunidad 
