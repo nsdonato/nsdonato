@@ -47,7 +47,7 @@ Mi nombre es Noelia y soy desarrolladora Frontend, vivo en Buenos Aires, Argenti
   <img align="center" src="https://github-readme-stats-nsdonato.vercel.app/api/pin/?username=nsdonato&repo=vamosacodearplanetas&theme=buefy" />
 </a>
 <a href="https://github.com/nsdonato/planetas_api">
-  <img align="center" src="https://github-readme-stats-nsdonato.vercel.app/api/pin/?username=nsdonato&repo=vamosacodearplanetas&theme=buefy" />
+  <img align="center" src="https://github-readme-stats-nsdonato.vercel.app/api/pin/?username=nsdonato&repo=planetas_api&theme=buefy" />
 </a> 
 
 ### 🆕 Proyecto Invoices (En proceso)
