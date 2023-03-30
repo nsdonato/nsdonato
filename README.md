@@ -5,7 +5,7 @@ Mi nombre es Noelia y soy desarrolladora Frontend, vivo en Buenos Aires, Argenti
 
 **Acerca de mí**
 
-- 👩🏻‍💻 FrontEnd Engineer en Inditex, actualmente trabajo con [React](https://reactjs.org)
+- 👩🏻‍💻 FrontEnd Engineer en Capitole Consulting, actualmente trabajo con [React](https://reactjs.org)
 
 - 👷🏻 Hago proyectos con la comunidad de Discord y Twitch, simulando equipos de trabajo.
 
