@@ -1,15 +1,13 @@
 ### Hola 👋
 
-Mi nombre es Noelia y soy desarrolladora Frontend, vivo en Buenos Aires, Argentina. 🇦🇷
+Mi nombre es Noelia, soy de Argentina 🇦🇷 🩵, pero actualmente estoy viviendo en España 🇪🇸
 
 
-**Acerca de mí**
+### Acerca de mí
 
-- 👩🏻‍💻 FrontEnd Engineer en Capitole Consulting, actualmente trabajo con [React](https://reactjs.org)
+- 👩🏻‍💻 FrontEnd Engineer en Capitole Consulting. 
 
-- 👷🏻 Hago proyectos con la comunidad de Discord y Twitch, simulando equipos de trabajo.
-
-- 🤓 Aprendiendo [Typescript](https://www.typescriptlang.org/)
+- 🤓 Me interesa continuar aprendiendo [Typescript](https://www.typescriptlang.org/), [Qwik](https://qwik.builder.io/) y [Next.js](https://nextjs.org/) (App Router + SC + SA)
 
 - 🆕 Creo contenido en:
  
@@ -20,34 +18,31 @@ Mi nombre es Noelia y soy desarrolladora Frontend, vivo en Buenos Aires, Argenti
 
 <br />
 
-## Languages, frameworks and tools
+### Actualmente trabajo con:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png"></code>
-<code><img height="20" src="https://avatars.githubusercontent.com/u/49996085?s=200&v=4"></code>
 <code><img height="20" src="https://avatars.githubusercontent.com/u/65625612?s=200&v=4"></code>
+<code><img height="20" src="https://avatars.githubusercontent.com/u/49996085?s=200&v=4"></code>
 
-## Estadísticas de GitHub
-
-<a href="https://github.com/nsdonato">
- <img align="center" src="https://github-readme-stats-nsdonato.vercel.app/api?username=nsdonato&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Noelia's github stats" />
-</a>  
-<a href="https://github.com/nsdonato/vamosacodearplanetas">
- <img align="center" src="https://github-readme-stats-nsdonato.vercel.app/api/top-langs/?username=nsdonato&layout=compact&theme=buefy&hide_border=true" />
-</a> 
-
-
-## Proyectos con la comunidad 
-
-### 🌎 Proyecto Planetas 
+### Proyecto con la comunidad: 🌎 Planets Facts 
 
 <a href="https://github.com/nsdonato/vamosacodearplanetas">
   <img align="center" src="https://github-readme-stats-nsdonato.vercel.app/api/pin/?username=nsdonato&repo=vamosacodearplanetas&theme=buefy" />
 </a>
 <a href="https://github.com/nsdonato/planetas_api">
   <img align="center" src="https://github-readme-stats-nsdonato.vercel.app/api/pin/?username=nsdonato&repo=planetas_api&theme=buefy" />
+</a> 
+
+
+### Estadísticas de GitHub
+
+<a href="https://github.com/nsdonato">
+ <img align="center" src="https://github-readme-stats-nsdonato.vercel.app/api?username=nsdonato&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Noelia's github stats" />
+</a>  
+<a href="https://github.com/nsdonato/vamosacodearplanetas">
+ <img align="center" src="https://github-readme-stats-nsdonato.vercel.app/api/top-langs/?username=nsdonato&layout=compact&theme=buefy&hide_border=true" />
 </a> 
 
 <!-- ### 🆕 Proyecto Invoices (En proceso)
@@ -58,8 +53,6 @@ Mi nombre es Noelia y soy desarrolladora Frontend, vivo en Buenos Aires, Argenti
 <a href="https://github.com/nsdonato/back-invoices">
   <img align="center" src="https://github-readme-stats-nsdonato.vercel.app/api/pin/?username=nsdonato&repo=back-invoices&theme=buefy" />
 </a> -->
-
-
 
 <!-- links to your social media accounts
 
