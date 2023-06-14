@@ -7,7 +7,7 @@ Mi nombre es Noelia, soy de Argentina 🇦🇷 🩵, pero actualmente estoy vivi
 
 - 👩🏻‍💻 FrontEnd Engineer en Capitole Consulting. 
 
-- 🤓 Me interesa continuar aprendiendo [Typescript](https://www.typescriptlang.org/), [Qwik](https://qwik.builder.io/) 
+- 🤓 Me interesa continuar aprendiendo [Typescript](https://www.typescriptlang.org/) y [Qwik](https://qwik.builder.io/) 
 
 - 🆕 Creo contenido en:
  
