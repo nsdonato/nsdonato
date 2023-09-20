@@ -1,10 +1,10 @@
 ### Hola 👋
 
-Mi nombre es Noelia, soy de Argentina 🇦🇷 🩵, pero actualmente estoy viviendo en España 🇪🇸 por trabajo. 
+Mi nombre es Noelia, soy de Argentina 🇦🇷 🩵, pero actualmente por trabajo estoy viviendo en España 🇪🇸. 
 
 Tengo unos 11 años como backend en diferentes empresas: Accenture, Lagash (actual MELI) y Santander y hace unos 2 años me cambié a Frontend (comencé el traspaso en Santander y luego ya como full front en Telecom y mi trabajo actual).
 
-Aprender en público y aportar en proyectos Open Source ♥️ 
+
 
 ### Acerca de mí
 
