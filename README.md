@@ -8,7 +8,9 @@ Tengo unos 11 años como backend en diferentes empresas: Accenture, Lagash (actu
 
 ### Acerca de mí
 
-- 👩🏻‍💻 FrontEnd Developer en Capitole Consulting. 
+- 👩🏻‍💻 FrontEnd Developer en Capitole Consulting.
+  
+- 💜 Contribuir a proyectos Open Source
 
 - 🤓 Me interesa continuar aprendiendo [Typescript](https://www.typescriptlang.org/) y [Qwik](https://qwik.builder.io/) 
 
