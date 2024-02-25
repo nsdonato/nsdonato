@@ -1,20 +1,12 @@
-### Hola 👋
-
-Mi nombre es Noelia, soy de Argentina 🇦🇷 🩵, pero actualmente por trabajo estoy viviendo en España 🇪🇸. 
-
-Comencé mi carrera como backend en Accenture, luego fui cambiando de empresas con los años (Lagash -actual MELI-) y Santander, donde empecé mi traspaso a Front, pasandome luego a Telecom y mi por último, mitrabajo actual.
+# Hola, soy Noelia 👋
 
 
-### Acerca de mí
+## Acerca de mí
 
-- 👩🏻‍💻 FrontEnd Developer en Capitole Consulting.
-  
+- 👩🏻‍💻 FrontEnd Developer con React, trabajando en @ Capitole Consulting.
 - 💜 Contribuir a proyectos Open Source
- 
-- 🚀 Me gusta brindar apoyo a las personas que ingresan en el mundo Tech, hacer proyectos junto a la comunidad de Twitch, donde de diferentes personas se unen, sea por un nuevo comienzo o continuar creciendo en su carrera.
-
-- 🤓 Me interesa continuar aprendiendo [Typescript](https://www.typescriptlang.org/) y [Next.js]([https://qwik.builder.io/](https://nextjs.org/)) 
-
+- 🎯 Me gusta brindar apoyo a las personas que ingresan en el mundo Tech, hacer proyectos junto a la comunidad de Twitch, donde de diferentes personas se unen, sea por un nuevo comienzo o continuar creciendo en su carrera.
+- 🤓 Me interesa continuar aprendiendo [Typescript](https://www.typescriptlang.org/) y [Next.js](https://nextjs.org/)) 
 - 🆕 Creo contenido en:
  
   <a href="https://twitter.com/vamoacodear"><img align="left" alt="Vamo a codear Twitter" width="22px" src="https://icongr.am/fontawesome/twitter.svg?size=128&color=6fadd6" /></a>
@@ -24,26 +16,21 @@ Comencé mi carrera como backend en Accenture, luego fui cambiando de empresas c
 
 <br />
 
-### Actualmente trabajo con:
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
-<code><img height="20" src="https://avatars.githubusercontent.com/u/65625612?s=200&v=4"></code>
-<code><img height="20" src="https://avatars.githubusercontent.com/u/49996085?s=200&v=4"></code>
+## Proyectos:
 
 ### Proyecto: Recursos Tech 
-Creé el proyecto Open Source [RecursosTech](https://recursostech.dev/) para ayudar a la comunidad a tener identificados, de manera más fácil, recursos que nos sirven en el día a día como programadores, sin importar el área a la que pertenezcas. ¡En la web también podés encontrar conferencias, streamers y videos donde diferentes personas de la comunidad hablo hispana, enseñan o cuentan sobre las diferentes herramientas mencionadas en la web!
+Creé el proyecto Open Source [RecursosTech](https://recursostech.dev/) para ayudar a la comunidad a tener identificados, de manera más fácil, recursos que nos sirven en el día a día como programadores, sin importar el área a la que pertenezcas. ¡En la web también podés encontrar conferencias, streamers y videos donde diferentes personas de la comunidad habla hispana, enseñan o cuentan sobre las diferentes herramientas mencionadas en la web!
 
 ### Proyecto con la comunidad: 🌎 Planets Facts 
 Junto a la comunidad realicé una simulación de trabajo en Twitch, para que personas sin experiencia puedan aprender como es trabajar en equipo y las diferentes dinámicas con las que nos enfrentamos en un entorno laboral. 
 
-[Planets Facts - Front](https://github.com/nsdonato/vamosacodearplanetas)
-[Planets Facts - Back](https://github.com/nsdonato/planetas_api)
+🎨 [Planets Facts - Front](https://github.com/nsdonato/vamosacodearplanetas)
+
+🔙 [Planets Facts - Back](https://github.com/nsdonato/planetas_api)
 
 ### Proyecto: Mujeres en Tecnologia
 Charlas distendidas, con mujeres que trabajan en el mundo del desarrollo y que nos cuentan su experiencia dentro de las áreas en las que se desarrollan.
-[Playlist](https://youtu.be/s5vlChMBd9s?si=vxu8-iV9hII5jxG1)
+[Youtube](https://youtu.be/s5vlChMBd9s?si=vxu8-iV9hII5jxG1)
 
 
 ### Estadísticas de GitHub
@@ -55,14 +42,6 @@ Charlas distendidas, con mujeres que trabajan en el mundo del desarrollo y que n
  <img align="center" src="https://github-readme-stats-nsdonato.vercel.app/api/top-langs/?username=nsdonato&layout=compact&theme=buefy&hide_border=true" />
 </a> 
 
-<!-- ### 🆕 Proyecto Invoices (En proceso)
-
-<a href="https://github.com/nsdonato/front-invoices">
-  <img align="center" src="https://github-readme-stats-nsdonato.vercel.app/api/pin/?username=nsdonato&repo=front-invoices&theme=buefy" />
-</a>
-<a href="https://github.com/nsdonato/back-invoices">
-  <img align="center" src="https://github-readme-stats-nsdonato.vercel.app/api/pin/?username=nsdonato&repo=back-invoices&theme=buefy" />
-</a> -->
 
 <!-- links to your social media accounts
 
