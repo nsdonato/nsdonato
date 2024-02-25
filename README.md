@@ -2,8 +2,7 @@
 
 Mi nombre es Noelia, soy de Argentina 🇦🇷 🩵, pero actualmente por trabajo estoy viviendo en España 🇪🇸. 
 
-Tengo unos 11 años como backend en diferentes empresas: Accenture, Lagash (actual MELI) y Santander y hace unos 2 años me cambié a Frontend (comencé el traspaso en Santander y luego ya como full front en Telecom y mi trabajo actual).
-
+Comencé mi carrera como backend en Accenture, luego fui cambiando de empresas con los años (Lagash -actual MELI-) y Santander, donde empecé mi traspaso a Front, pasandome luego a Telecom y mi por último, mitrabajo actual.
 
 
 ### Acerca de mí
@@ -11,6 +10,8 @@ Tengo unos 11 años como backend en diferentes empresas: Accenture, Lagash (actu
 - 👩🏻‍💻 FrontEnd Developer en Capitole Consulting.
   
 - 💜 Contribuir a proyectos Open Source
+ 
+- 🚀 Me gusta brindar apoyo a las personas que ingresan en el mundo Tech, hacer proyectos junto a la comunidad de Twitch, donde de diferentes personas se unen, sea por un nuevo comienzo o continuar creciendo en su carrera.
 
 - 🤓 Me interesa continuar aprendiendo [Typescript](https://www.typescriptlang.org/) y [Next.js]([https://qwik.builder.io/](https://nextjs.org/)) 
 
@@ -31,14 +32,18 @@ Tengo unos 11 años como backend en diferentes empresas: Accenture, Lagash (actu
 <code><img height="20" src="https://avatars.githubusercontent.com/u/65625612?s=200&v=4"></code>
 <code><img height="20" src="https://avatars.githubusercontent.com/u/49996085?s=200&v=4"></code>
 
-### Proyecto con la comunidad: 🌎 Planets Facts 
+### Proyecto: Recursos Tech 
+Creé el proyecto Open Source [RecursosTech](https://recursostech.dev/) para ayudar a la comunidad a tener identificados, de manera más fácil, recursos que nos sirven en el día a día como programadores, sin importar el área a la que pertenezcas. ¡En la web también podés encontrar conferencias, streamers y videos donde diferentes personas de la comunidad hablo hispana, enseñan o cuentan sobre las diferentes herramientas mencionadas en la web!
 
-<a href="https://github.com/nsdonato/vamosacodearplanetas">
-  <img align="center" src="https://github-readme-stats-nsdonato.vercel.app/api/pin/?username=nsdonato&repo=vamosacodearplanetas&theme=buefy" />
-</a>
-<a href="https://github.com/nsdonato/planetas_api">
-  <img align="center" src="https://github-readme-stats-nsdonato.vercel.app/api/pin/?username=nsdonato&repo=planetas_api&theme=buefy" />
-</a> 
+### Proyecto con la comunidad: 🌎 Planets Facts 
+Junto a la comunidad realicé una simulación de trabajo en Twitch, para que personas sin experiencia puedan aprender como es trabajar en equipo y las diferentes dinámicas con las que nos enfrentamos en un entorno laboral. 
+
+[Planets Facts - Front](https://github.com/nsdonato/vamosacodearplanetas)
+[Planets Facts - Back](https://github.com/nsdonato/planetas_api)
+
+### Proyecto: Mujeres en Tecnologia
+Charlas distendidas, con mujeres que trabajan en el mundo del desarrollo y que nos cuentan su experiencia dentro de las áreas en las que se desarrollan.
+[Playlist](https://youtu.be/s5vlChMBd9s?si=vxu8-iV9hII5jxG1)
 
 
 ### Estadísticas de GitHub
