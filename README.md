@@ -6,7 +6,7 @@
 - 👩🏻‍💻 FrontEnd Developer con React, trabajando en @ Capitole Consulting.
 - 💜 Contribuir a proyectos Open Source
 - 🎯 Me gusta brindar apoyo a las personas que ingresan en el mundo Tech, hacer proyectos junto a la comunidad de Twitch, donde de diferentes personas se unen, sea por un nuevo comienzo o continuar creciendo en su carrera.
-- 🤓 Me interesa continuar aprendiendo [Typescript](https://www.typescriptlang.org/) y [Next.js](https://nextjs.org/)) 
+- 🤓 Me interesa continuar aprendiendo [Typescript](https://www.typescriptlang.org/) y [Next.js](https://nextjs.org/)
 - 🆕 Creo contenido en:
  
   <a href="https://twitter.com/vamoacodear"><img align="left" alt="Vamo a codear Twitter" width="22px" src="https://icongr.am/fontawesome/twitter.svg?size=128&color=6fadd6" /></a>
